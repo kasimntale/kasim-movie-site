@@ -261,7 +261,7 @@ i{
 
     /* Footer adjustments */
     .footer {
-        flex-direction: column;
+        flex-direction: row;
         text-align: center;
     }
 
@@ -303,7 +303,7 @@ i{
 
     /* Footer links stack vertically */
     .footer {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     /* Subscribe input field */
