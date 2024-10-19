@@ -95,10 +95,10 @@ h3{
 }
 .top{
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 1000px;
     display:flex;
     flex-direction: row;
-    gap:20px;
+    gap:5px;
 }
 .kk{
     width: 400px;
