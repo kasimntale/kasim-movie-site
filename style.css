@@ -261,8 +261,7 @@ i{
 
     /* Footer adjustments */
     .footer {
-        flex-direction: row;
-        justify-content: space-between;
+        flex-direction: column;
         text-align: center;
     }
 
@@ -304,8 +303,7 @@ i{
 
     /* Footer links stack vertically */
     .footer {
-        justify-content: space-between;
-        flex-direction: row;
+        flex-direction: column;
     }
 
     /* Subscribe input field */
