@@ -262,7 +262,8 @@ i{
     /* Footer adjustments */
     .footer {
         flex-direction: column;
-        text-align: center;
+        justify-content: left;
+        text-align:center ;
     }
 
     .footer div {
